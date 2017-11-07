@@ -2,11 +2,11 @@
   role: Lead Developer
   time: 2016 - 2017
   company: Sanitas Perú, Lima
-  details: "
-Development of solutions from functional requirements.
-Git repository manager.
-Development in Oracle PL / SQL with NHibernate and NHibernate Fluent.
-Web development (.Net MVC, WCF and JQuery)"
+  details: "Development of solutions from functional requirements."
+  details: "Git repository manager."
+  details: "Development in Oracle PL / SQL with NHibernate and NHibernate Fluent."
+  details: "Web development (.Net MVC, WCF and JQuery)"
+
 - experience:
   role: Developer
   time: 2014 - 2016
