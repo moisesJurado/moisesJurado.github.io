@@ -2,21 +2,22 @@
   role: Lead Developer
   time: 2016 - 2017
   company: Sanitas Perú, Lima
-  details: "Development of solutions from functional requirements."
-  details: "Git repository manager."
-  details: "Development in Oracle PL / SQL with NHibernate and NHibernate Fluent."
-  details: "Web development (.Net MVC, WCF and JQuery)"
+  details: "
+  -Development of solutions from functional requirements.</br>
+  -Git repository manager.</br>
+  -Development in Oracle PL / SQL with NHibernate and NHibernate Fluent.</br>
+  -Web development (.Net MVC, WCF and JQuery)"
 
 - experience:
   role: Developer
   time: 2014 - 2016
   company: Claro (CosapiData)
   details: "
-Analysis at technical level from proposed functional requirements.
-Development of solutions from functional requirements analyzed.
-Development documentation.
-Web development (.Net, WCF, JS and JQuery).
-Oracle PL / SQL Development.
-Development uploading code to TFS.
-WebServices Testing.
-Production / certification environment releases with Harvest Workbench"
+  -Analysis at technical level from proposed functional requirements.</br>
+  -Development of solutions from functional requirements analyzed.</br>
+  -Development documentation.</br>
+  -Web development (.Net, WCF, JS and JQuery).</br>
+  -Oracle PL / SQL Development.</br>
+  -Development uploading code to TFS.</br>
+  -WebServices Testing.</br>
+  -Production / certification environment releases with Harvest Workbench"

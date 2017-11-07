@@ -1,12 +1,10 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
+  description: "algunos proyectos en los que he participado"
 - project:
-  title: Velocity
+  title: Afiliaciones eps en Sanitas EPS
   link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "Sitio para la venta y afiliacion de los planes de salud"
 - project:
-  title: DevStudio
+  title: Venta postPago y prepago en Claro
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Mantenimiento a las aplicaciones de postpago y prepago"
